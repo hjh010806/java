@@ -74,14 +74,12 @@ class Person {
     int age;
     String name;
     String home;
-
 }
 
 class Car{
     String model;
     int year;
     int price;
-
 }
 
 
